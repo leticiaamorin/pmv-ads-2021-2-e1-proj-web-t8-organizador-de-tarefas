@@ -1,6 +1,6 @@
 # Organizador De tarefas
 
-Curso: Analise e Desinvolvimento de Software
+Curso: Analise e Desenvolvimento de Software
 
 Disciplina: Web Front End 
 
